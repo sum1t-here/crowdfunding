@@ -26,7 +26,7 @@ export default function Home() {
     params: [],
   });
 
-  console.log(campaigns);
+  // console.log(campaigns);
 
   return (
     <main className="mx-auto max-w-7xl px-4 mt-4 sm:px-6 lg:px-8">
